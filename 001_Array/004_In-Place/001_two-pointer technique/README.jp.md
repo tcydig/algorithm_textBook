@@ -52,5 +52,9 @@ writePointer -> 重複している値を上書きする際に使用するIndex�
 変換後の配列: [0, 1, 2, 3, 4]
 ~~~
 
+## 補足
+two-pointerにはいくつか方法がある。<br>
+先頭から進むポインターと最後尾から進むポインターを使ったりと、方法は色々ある
+
 ## 参照ドキュメント
 https://leetcode.com/explore/featured/card/fun-with-arrays/511/in-place-operations/3255/
